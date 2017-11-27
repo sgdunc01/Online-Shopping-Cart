@@ -1,0 +1,9 @@
+C:\Users\Spencer\Desktop\Final Project\Final Project\bin\Final Project.dll.config
+C:\Users\Spencer\Desktop\Final Project\Final Project\bin\Final Project.dll
+C:\Users\Spencer\Desktop\Final Project\Final Project\bin\Final Project.pdb
+C:\Users\Spencer\Desktop\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Spencer\Desktop\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Spencer\Desktop\Final Project\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Desktop\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\Desktop\Final Project\Final Project\obj\Debug\Final Project.dll
+C:\Users\Spencer\Desktop\Final Project\Final Project\obj\Debug\Final Project.pdb
